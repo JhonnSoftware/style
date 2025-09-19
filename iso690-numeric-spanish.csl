@@ -1,18 +1,21 @@
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="es-ES">
-<info>
-<title>ISO-690 (numérico, Español)</title>
-<id>http://www.zotero.org/styles/iso690-numeric-es</id>
-<link href="http://www.zotero.org/styles/iso690-numeric-es" rel="self"/>
-<link href="https://forums.zotero.org/discussion/20342" rel="documentation"/>
-<author>
-<name>Adaptado por ChatGPT</name>
-</author>
-<category citation-format="numeric"/>
-<category field="generic-base"/>
-<summary>Estilo basado en ISO 690:2010(E), adaptado a español (numérico).</summary>
-<updated>2025-09-19T00:00:00+00:00</updated>
-<rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
-</info>
+<style xmlns="http://purl.org/net/xbiblio/csl" 
+       class="in-text" version="1.0" 
+       demote-non-dropping-particle="never" 
+       default-locale="es-ES">
+  <info>
+    <title>ISO-690 (numeric, Spanish)</title>
+    <id>http://www.zotero.org/styles/iso690-numeric-spanish</id>
+    <link href="http://www.zotero.org/styles/iso690-numeric-spanish" rel="self"/>
+    <link href="https://github.com/JhonnSoftware/style" rel="documentation"/>
+    <author>
+      <name>JhonnSoftware</name>
+    </author>
+    <category citation-format="numeric"/>
+    <category field="generic-base"/>
+    <updated>2025-09-19T00:00:00+00:00</updated>
+    <rights license="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </info>
+
 
 <locale>
 <terms>
@@ -523,3 +526,4 @@
 </layout>
 </bibliography>
 </style>
+
