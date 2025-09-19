@@ -23,7 +23,7 @@
 <term name="in">en</term>
 <term name="online">[en línea]</term>
 <term name="accessed">consultado</term>
-<term name="retrieved">Disponible en</term>
+<term name="retrieved">Disponible</term>
 <term name="from">en</term>
 </terms>
 </locale>
@@ -526,4 +526,5 @@
 </layout>
 </bibliography>
 </style>
+
 
