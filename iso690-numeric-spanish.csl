@@ -24,7 +24,7 @@
 <term name="online">[en línea]</term>
 <term name="accessed">consultado</term>
 <term name="retrieved">Disponible en</term>
-<!-- <term name="from"></term> -->
+<term name="from"></term>
 </terms>
 </locale>
 
@@ -288,7 +288,7 @@
 <if variable="URL">
 <group>
 <text term="retrieved" suffix=":" text-case="capitalize-first"/>
-<text term="from" suffix=": "/>
+<text term="from" suffix=""/>
 <text variable="URL"/>
 </group>
 </if>
@@ -526,6 +526,7 @@
 </layout>
 </bibliography>
 </style>
+
 
 
 
